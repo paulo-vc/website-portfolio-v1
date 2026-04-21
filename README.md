@@ -27,4 +27,4 @@ O projeto foi construído utilizando as seguintes tecnologias e ferramentas:
 
 # Contato
 - **Email:** contato.paulovruffini@gmail.com
-- **LinkedIn:** Paulo Ruffini
+- **LinkedIn:** [Paulo Ruffini](https://www.linkedin.com/in/pauloruffini)
